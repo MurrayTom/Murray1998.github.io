@@ -1,39 +1,20 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Hello 👋, I am Yutao Mou (牟宇滔). I'm the first year AI PhD student at the <a href="https://se.pku.edu.cn/kcl/">KCL Lab</a>, National Engineering Research Center for Software Engineering, Peking University, Beijing, China. I am under the supervision of Prof. Wei Ye and Shikun Zhang. Currently, I focus on large language models (LLMs). My main research interests include LLM Safety and LLM for Software Engineering (SE). I have been working on building safe, reliable and scalable artificial intelligence systems. I have published 20+ papers at the top international AI Conferences with total <a href='https://scholar.google.com/citations?user=f71f5YkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
+If you are interested in collaboration, feel free to email me at yutao.mou@stu.pku.edu.cn
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA supervised by Prof. <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a>. I received the M.S. degree from Peking University. My main research interests include AI for Science and Multi-modal Learning. I have published several papers at the top international AI Conferences/Journals with total <a href='https://scholar.google.com/citations?user=RGZUJOkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>. If you are interested in collaboration, feel free to email me at whx@cs.ucla.edu.
 
 # 📖 Research interests:
-- Multi-modal Large Langugae Model
-  - Multi-modal Understanding & Generation
-  - Text-to-Video Generation
-- AI for Science
-  - Scientific Foundation Model
-  - Fluid &amp; Molecular Dynamics
-  - Bioinformatics &amp; Multi-Omics
+- Large Language Model Safety
+  - Evaluation
+  - Alignment Methods
+- Large Language Model for Software Engineering
+  - Secure Code Generation
+  - Code Vulnerability Detection
+  - LLM Agent for SE
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper is acceppted as oral by AAAI 2025.
-- *2024.09*: &nbsp;🎉🎉 I joined the [UCLA DATA MINING LAB](https://ucla-dm.github.io/DM_website/index.html) as a PhD student.
-- *2024.01*: &nbsp;🎉🎉 One paper is acceppted by ICLR 2024.
-
+- *2024.09*: &nbsp;🎉🎉 One paper is acceppted by NeurIPS 2024.
 
 # 💼 Internships &amp; Visiting Scholar
 - *2023.09 - 2024.10*, Visiting scholar, Westlake University.
