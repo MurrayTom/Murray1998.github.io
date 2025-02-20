@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haixin Wang"
-description              : "Haixin Wang's Homepage"
-repository               : "WillDreamer/WillDreamer.github.io"
+title                    : "Yutao Mou (Murray)"
+description              : "Yutao Mou's Homepage"
+repository               : "MurrayTom/Murray1998.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haixin Wang"
+  name             : "Yutao Mou"
   avatar           : "images/photo.jpg"
-  bio              : "whx@cs.ucla.edu"
-  location         : "Los Angeles, USA"
+  bio              : "yutao.mou@stu.pku.edu.cn"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=RGZUJOkAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=f71f5YkAAAAJ"
   email            : 
-  researchgate     : "https://www.researchgate.net/profile/Haixin-Wang-4?ev=hdr_xprf"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : WillDreamer
+  github           : MurrayTom
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "whx-cs"
+  linkedin         :
   dblp             : # "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-5714-0149"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "WangHX_LA"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
